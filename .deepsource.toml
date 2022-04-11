@@ -1,3 +1,4 @@
+
 version = 1
 
 [[analyzers]]
@@ -6,3 +7,4 @@ enabled = true
 
   [analyzers.meta]
   plugins = ["react"]
+
